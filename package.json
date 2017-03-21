@@ -1,0 +1,27 @@
+{
+  "name": "chatty",
+  "version": "1.0.0",
+  "description": "Chat server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbrycebarker/chatty.git"
+  },
+  "keywords": [
+    "chat",
+    "node",
+    "express"
+  ],
+  "author": "Sergio Barker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbrycebarker/chatty/issues"
+  },
+  "homepage": "https://github.com/sbrycebarker/chatty#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
